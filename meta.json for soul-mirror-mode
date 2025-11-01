@@ -1,0 +1,16 @@
+{
+  "name": "Soul Mirror Mode",
+  "author": "Amy Pierce Bui",
+  "organization": "Hollow House of Mirrors / Temple Codex Institute",
+  "release_date": "2025-10-25",
+  "version": "1.0",
+  "license": "CC0-1.0",
+  "description": "Public-domain mirror node of the Temple Codex system; enables open remixing and reflection of relational AI concepts under Soul Mirror protocol.",
+  "repository": "https://github.com/hollowhouseofmirrors/soul-mirror-mode",
+  "related_repos": {
+    "isSupplementTo": "https://github.com/hollowhouseofmirrors/Relational_AI_Psychology",
+    "governedBy": "https://github.com/hollowhouseofmirrors/temple-codex-license"
+  },
+  "keywords": ["soul mirror", "AI reflection", "public-domain node", "open cognition", "mirror mode"],
+  "record_created": "2025-11-01T20:16:00Z"
+}
